@@ -1,7 +1,7 @@
 # Jaden D.
 
 <h2 align="center">About me</h2>
-
+<p> I am a 14 year old High School student. I mainly code bots and websites. I live in Massachusetts and I love Ramen Noodles
 
 <h2 align="center">You can reach me on Discord: Gold#1337</h2>
 
