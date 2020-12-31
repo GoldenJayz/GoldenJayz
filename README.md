@@ -3,7 +3,7 @@
 <h2 align="center">About me</h2>
 
 
-<h2 align="center">You can reach me at :alien:</h2>
+<h2 align="center">You can reach me on Discord: Gold#1337 :gold:</h2>
 
 <p align="center">
   <a href="https://dev.to/anhello">
