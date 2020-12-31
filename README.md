@@ -30,5 +30,6 @@
 
 
 ---
-
+<p align="center">
 Gold#1337
+</p>
