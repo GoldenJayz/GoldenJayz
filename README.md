@@ -6,6 +6,7 @@
 <h2 align="center">You can reach me on Discord: Gold#1337</h2>
 
  <a href="https://www.youtube.com/channel/UCR6r5mq-pD3201_CBY-YeLA">
+ <p align="center">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
   </a>
 </p>
