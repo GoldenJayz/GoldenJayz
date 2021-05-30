@@ -1,7 +1,15 @@
 # Jaden D.
 
 <h2 align="center">About me</h2>
-<p align="center"> I am a 15 year old High School student. I mainly code bots and websites. I live in Massachusetts and I love Ramen Noodles. I do full-stack web development but I like the backend side of things more. My first language that I learned was Python back in 2018 and I have been using it ever since. I also use JavaScript for other things I would rather do in JS than Python. I also code Discord bots of any type. </p>
+<p align="center">
+ <ul>
+  <li>I am from <b style="color:blue;">Massachusetts</b></li>
+  <li>I am <i>15 years old</i></li>
+  <li>I mainly use <b style="color:#0366fc;">Py</b><b style="color:#d4cd00;">thon</b>, <b style="color:#0366fc;">C</b>++, <b style="color:green;">C#</b>, <b style="color:#d4cd00;">JS</b></li>
+  
+ </ul>
+
+</p>
 
 <h2 align="center">You can reach me on Discord: Gold#1337</h2>
 
