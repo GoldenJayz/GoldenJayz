@@ -5,7 +5,7 @@
  <ul>
   <li>I am from <b style="color:blue;">Massachusetts</b></li>
   <li>I am <i>15 years old</i></li>
-  <li>I mainly use <b style="color:#0366fc;">Py</b><b style="color:#d4cd00;">thon</b>, <b style="color:#0366fc;">C</b>++, <b style="color:green;">C#</b>, <b style="color:#d4cd00;">JS</b></li>
+  <li>I mainly use <b style="color:#0366fc;">Py</b><b style="color:#d4cd00;">thon</b>, <b style="color:#0366fc;">C</b>++, <b style="color:green;">C#</b>, <b style="color:#d4cd00;">and, JS</b></li>
   
  </ul>
 
