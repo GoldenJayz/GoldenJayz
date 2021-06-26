@@ -1,24 +1,23 @@
 # Jaden D.
 
-<h2 align="center">About me</h2>
-<p align="center">
- <ul align="center">
-  <li align="center">I am from <b style="color:blue;">Massachusetts</b></li>
-  <li align="center">I am <i>15 years old</i></li>
-  <li align="center">I mainly use <b style="color:#0366fc;">Py</b><b style="color:#d4cd00;">thon</b>, <b style="color:#0366fc;">C</b>++, <b style="color:green;">C#</b> <b style="color:#d4cd00;">and, JS</b></li>
+<h2 align="">About me</h2>
+<p align="">
+ <ul align="">
+  <li align="">I am from <b style="color:blue;">Massachusetts</b></li>
+  <li align="">I am <i>15 years old</i></li>
+  <li align="">I mainly use <b style="color:#0366fc;">Py</b><b style="color:#d4cd00;">thon</b>, <b style="color:#0366fc;">C</b>++, <b style="color:green;">C#</b> <b style="color:#d4cd00;">and, JS</b></li>
   
  </ul>
 
 </p>
 
-<h2 align="center">Current Projects being worked on:</h2>
+<h2 align="">Current Projects being worked on:</h2>
 
-<ul align="center">
-  <li align="center">Demon Summoning Program on Switch</li>
-  <li align="center">jadend.xyz</li>
-  <li align="center">AI parent relation percentile website</li>
-  
- </ul>
+<ul align="">
+  <li align="">Demon Summoning Program on Switch</li>
+  <li align="">jadend.xyz</li>
+  <li align="">AI parent relation percentile website</li>
+</ul>
 
 
 <h2 align="center">Github stats :bar_chart:</h2>
