@@ -20,13 +20,13 @@
 </ul>
 
 
-<h2 align="center">Github stats :bar_chart:</h2>
+<h2 align="">Github stats :bar_chart:</h2>
 
 <div style="float:left;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldenjayz&langs_count=10&theme=tokyonight&layout=compact" alt="Jaden's :: Top Langs" /></div>
 
 <div style="float:left;"><img src="https://github-readme-stats.vercel.app/api?username=goldenjayz&show_icons=true&theme=synthwave" alt="Jaden's :: Profile Stats" /></div>
 
 ---
-<p align="center">
+<p align="">
 Gold#1337
 </p>
