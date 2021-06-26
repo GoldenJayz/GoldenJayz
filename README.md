@@ -11,13 +11,14 @@
 
 </p>
 
-<h2 align="center">You can reach me on Discord: Gold#1337</h2>
+<h2 align="center">Current Projects being worked on:</h2>
 
- <a href="https://www.youtube.com/channel/UCR6r5mq-pD3201_CBY-YeLA">
- <p align="center">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
-  </a>
-</p>
+<ul align="center">
+  <li align="center">Demon Summoning Program on Switch</li>
+  <li align="center">jadend.xyz</li>
+  <li align="center">AI parent relation percentile website</li>
+  
+ </ul>
 
 
 <h2 align="center">Github stats :bar_chart:</h2>
