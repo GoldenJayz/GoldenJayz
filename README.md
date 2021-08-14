@@ -14,9 +14,9 @@
 <h2 align="">Current Projects being worked on:</h2>
 
 <ul align="">
-  <li align="">Demon Summoning Program on Switch</li>
+  <li align="">Spotify2YT</li>
   <li align="">jadend.xyz</li>
-  <li align="">AI parent relation percentile website</li>
+  <li align="">Sakura Discord Bot</li>
 </ul>
 
 
