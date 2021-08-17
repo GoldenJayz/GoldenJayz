@@ -15,7 +15,7 @@
 
 <ul align="">
   <li align="">Spotify2YT</li>
-  <li align="">jadend.xyz</li>
+  <li align="">Commissions</li>
   <li align="">Sakura Discord Bot</li>
 </ul>
 
