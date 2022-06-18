@@ -15,8 +15,7 @@
 
 <ul align="">
   <li align="">Spotify2YT</li>
-  <li align="">Commissions</li>
-  <li align="">Sakura Discord Bot</li>
+  <li>Game Dev</li>
 </ul>
 
 
@@ -28,5 +27,5 @@
 
 ---
 <p align="">
-Gold#1337
+Gold#7580
 </p>
