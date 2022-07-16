@@ -21,7 +21,7 @@
 
 <h2 align="">Github stats :bar_chart:</h2>
 
-<div style="float:left;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenJayz&langs_count=10&hide=html,css,shell,java,vue,scss&theme=synthwave" alt="Jaden's :: Top Langs" /></div>
+<div style="float:left;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenJayz&langs_count=10&hide=html,css,shell,java,vue,scss&theme=highcontrast" alt="Jaden's :: Top Langs" /></div>
 
 <div style="float:left;"><img src="https://github-readme-stats.vercel.app/api?username=GoldenJayz&show_icons=true&theme=highcontrast" alt="Jaden's :: Profile Stats" /></div>
 
