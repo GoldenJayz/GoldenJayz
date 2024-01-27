@@ -1,31 +1,21 @@
-# Jaden D.
+# 🌟 Jaden D. 🌟
 
-<h2 align="">About me</h2>
-<p align="">
- <ul align="">
-  <li align="">I am from <b style="color:blue;">Massachusetts</b></li>
-  <li align="">I am <i>17 years old</i></li>
-  <li align="">I mainly use <b style="color:#0366fc;">Py</b><b style="color:#d4cd00;">thon</b>, <b style="color:#0366fc;">C</b>++/C, <b style="color:green;">C#</b> <b style="color:#d4cd00;">and, JS</b></li>
+<h3 align=""><i>"A jack of all trades is a master of none, but oftentimes better than a master of one"</i></h3>
+
+
+# About me
+<p>
   
- </ul>
-
+  👨‍💻 I program websites, bots, apps during my free time 
+  
+  🖥️ I work at the IT Help Desk for my school and occasionally do programming commissions on the side
+  
+  💼 I aspire to be a Business Major in college
+  
+  🏆 My goal is to lead and collaborate with people
 </p>
-
-<h2 align="">Current Projects being worked on:</h2>
-
-<ul align="">
-  <li align="">Spotify2YT</li>
-  <li>Game Dev</li>
-</ul>
 
 
 <h2 align="">Github stats :bar_chart:</h2>
 
-<div style="float:left;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenJayz&langs_count=10&hide=html,css,shell,java,vue,scss,ShaderLab,hlsl&theme=highcontrast" alt="Jaden's :: Top Langs" /></div>
-
-<div style="float:left;"><img src="https://github-readme-stats.vercel.app/api?username=GoldenJayz&show_icons=true&theme=highcontrast" alt="Jaden's :: Profile Stats" /></div>
-
----
-<p align="">
-Gold#7580
-</p>
+<div style="float:left;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenJayz&langs_count=5&hide=html,css,shell,java,vue,scss,ShaderLab,hlsl&theme=highcontrast" alt="Jaden's :: Top Langs" /></div>
