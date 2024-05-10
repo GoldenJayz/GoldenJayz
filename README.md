@@ -15,6 +15,7 @@
   🏆 My goal is to lead and collaborate with people
 </p>
 
+Also a piece of advice: ALWAYS HAVE A PROJECT DEADLINE
 
 <h2 align="">Github stats :bar_chart:</h2>
 
