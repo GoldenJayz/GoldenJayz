@@ -8,8 +8,6 @@
   
   👨‍💻 I program websites, bots, apps during my free time 
   
-  🖥️ I work at the IT Help Desk for my school and occasionally do programming commissions on the side
-  
   💼 I want to start my own technology company
   
   🏆 My goal is to lead and collaborate with people
