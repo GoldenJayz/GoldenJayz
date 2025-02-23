@@ -10,12 +10,12 @@
   
   🖥️ I work at the IT Help Desk for my school and occasionally do programming commissions on the side
   
-  💼 I aspire to be a Business Major in college
+  💼 I want to start my own technology company
   
   🏆 My goal is to lead and collaborate with people
 </p>
 
-Also a piece of advice: ALWAYS HAVE A PROJECT DEADLINE
+Also a piece of advice: Seize the opportunity
 
 <h2 align="">Github stats :bar_chart:</h2>
 
